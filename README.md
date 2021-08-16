@@ -1,7 +1,24 @@
-### Hi there 👋
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=sekift&show_icons=true)
+ -->
+ 
+ <!-- <p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sekift/count.svg" />
+</p> -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sekift&show_icons=true)
+<h1 align="center">Hi 👋, I'm sekift</h1>
+<h3 align="center">A passionate fullstack developer from China</h3>
 
+
+![sekift's GitHub stats](https://github-readme-stats.vercel.app/api?username=sekift&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sekift&layout=compact)](https://github.com/sekift/sekift)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sekift&repo=architecture-of-internet)](https://github.com/sekift/architecture-of-internet)
+
+
+
+- 📫 How to reach me: :email: [sekift@163.com](mailto:sekift@163.com)
+ 
 <!--
 **sekift/sekift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
