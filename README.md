@@ -8,7 +8,7 @@
 <h3 align="center">Hi 👋, I'm sekift | A passionate fullstack developer from GuangZhou GuangDong China</h3>
 
 
-![sekift's GitHub stats](https://github-readme-stats.vercel.app/api?username=sekift&show_icons=true)
+[![sekift's GitHub stats](https://github-readme-stats.vercel.app/api?username=sekift&show_icons=true)](https://github.com/sekift/sekift)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sekift&layout=compact)](https://github.com/sekift/sekift)
 
 <a href="https://github.com/sekift/architecture-of-internet">
