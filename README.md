@@ -5,15 +5,18 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sekift/count.svg" />
 </p> -->
-
-<h1 align="center">Hi 👋, I'm sekift</h1>
-<h3 align="center">A passionate fullstack developer from China</h3>
+<h3 align="center">Hi 👋, I'm sekift | A passionate fullstack developer from GuangZhou GuangDong China</h3>
 
 
 ![sekift's GitHub stats](https://github-readme-stats.vercel.app/api?username=sekift&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sekift&layout=compact)](https://github.com/sekift/sekift)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sekift&repo=architecture-of-internet)](https://github.com/sekift/architecture-of-internet)
+<a href="https://github.com/sekift/architecture-of-internet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sekift&repo=architecture-of-internet" />
+</a>
+<a href="https://github.com/sekift/tarpan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sekift&repo=tarpan" />
+</a>
 
 
 
