@@ -20,7 +20,7 @@
 
 
 
-- 📫 How to reach me: :email: [sekift@163.com](mailto:sekift@163.com)
+- 📫 How to teach me: :email: [sekift@163.com](mailto:sekift@163.com)
  
 <!--
 **sekift/sekift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
