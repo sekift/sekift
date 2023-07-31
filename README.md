@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sekift&repo=architecture-of-internet" />
 </a>
 <a href="https://github.com/sekift/tarpan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sekift&repo=tarpan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sekift&repo=so-vits-models" />
 </a>
 
 
