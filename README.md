@@ -14,7 +14,7 @@
 <a href="https://github.com/sekift/architecture-of-internet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sekift&repo=architecture-of-internet" />
 </a>
-<a href="https://github.com/sekift/tarpan">
+<a href="https://github.com/sekift/so-vits-models">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sekift&repo=so-vits-models" />
 </a>
 
