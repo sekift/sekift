@@ -11,13 +11,12 @@
 [![sekift's GitHub stats](https://github-readme-stats.vercel.app/api?username=sekift&show_icons=true)](https://github.com/sekift/sekift)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sekift&layout=compact)](https://github.com/sekift/sekift)
 
-<a href="https://github.com/sekift/architecture-of-internet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sekift&repo=architecture-of-internet" />
-</a>
 <a href="https://github.com/sekift/so-vits-models">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sekift&repo=so-vits-models" />
 </a>
-
+<a href="https://github.com/sekift/architecture-of-internet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sekift&repo=architecture-of-internet" />
+</a>
 
 
 - 📫 How to teach me: :email: [sekift@163.com](mailto:sekift@163.com)
